@@ -15,3 +15,5 @@ All the booking details of the customers will be stored in the database with a u
 
 
 Technical Architecture:
+
+![download (1)](https://user-images.githubusercontent.com/45667479/194706080-ed11e06c-db85-4159-9a08-8603d12f4c2e.png)
